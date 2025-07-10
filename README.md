@@ -1,6 +1,6 @@
-# Hi, I'm Shivam 👋🏾 👩🏾‍💻
+# Hi, I'm Shivam Bhola 👋
 
-<img src="https://github.com/shivam06062003/shivam06062003/blob/main/e3ae6c9ff4ac9461058afc0761f98e88.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/shivam06062003/shivam06062003/blob/main/618f083c61a7460ce0a6064319af41bd.jpg" alt="banner that says Shivam Bhola - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 
